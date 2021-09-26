@@ -60,10 +60,10 @@ function OnlineEventShow() {
 
   const categoriesMatchCheck = (arr1, arr2) => {
     const matchingEvents = []
-    const filteredArray = arr1.filter(item => 
+    const filteredArray = arr1?.filter(item => 
       item.category.includes(arr2[0]) || item.category.includes(arr2[1]) || item.category.includes(arr2[2])
     )
-    filteredArray.map(element =>
+    filteredArray?.map(element =>
       matchingEvents.push(element)
     )
     const uniqueMatchingEvents = matchingEvents.filter(item =>
