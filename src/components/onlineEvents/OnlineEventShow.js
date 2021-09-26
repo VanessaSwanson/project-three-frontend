@@ -206,7 +206,7 @@ function OnlineEventShow() {
           <div className="event-show-lower">
             <h3>Similar events on Mugglemore</h3>
             <div className="similar-events-container">
-              {categoriesMatchCheck(onlineEvents, onlineEvent.category) ?
+              {onlineEvents && categoriesMatchCheck(onlineEvents, onlineEvent.category) ?
                 <>
                   {similarEvents.map(onlineEvent => (
                     <>
