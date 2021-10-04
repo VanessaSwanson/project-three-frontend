@@ -15,7 +15,7 @@ function EventMap ({ event }) {
         mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_ACCESS_TOKEN}
         height="100%"
         width="100%"
-        mapStyle='mapbox://styles/mapbox/streets-v11'
+        mapStyle='mapbox://styles/nessaswanson/ckucfrto368lp17o4j059oih5'
         {...viewport}
         onViewportChange={(viewport) => setViewport(viewport)}
       >

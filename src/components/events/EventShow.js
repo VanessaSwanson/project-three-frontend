@@ -6,7 +6,7 @@ import { getSingleEvent, getAllEvents, attendEvent, deleteEvent, getProfile } fr
 import EventMap from './EventMap'
 import { isOwner, isAuthenticated } from '../../lib/auth'
 import Loading from '../common/Loading'
-// import CommentForm from '../comments/CommentForm'
+
 
 function EventShow() {
   const { eventId } = useParams()

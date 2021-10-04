@@ -94,10 +94,6 @@ function OnlineEventShow() {
     }
   } 
 
-  // const randomIndexOne = Math.floor(Math.random() * onlineEvent?.attendees.length)
-  // const randomIndexTwo = Math.floor(Math.random() * onlineEvent?.attendees.length)
-  // const randomIndexThree = Math.floor(Math.random() * onlineEvent?.attendees.length)
-
   return (
     <section className="event-show-section">
       {isError && <p>Oops!</p>}
