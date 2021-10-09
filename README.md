@@ -1,4 +1,5 @@
 # General Assembly Project 3: Mugglemore
+![](https://lh5.googleusercontent.com/hMAVHoRMwUwzbXtvNhyvBj2faaFF0MkCl3Na7VFs7C3_kO4oIOhub3t2fw1q5iigB1LIEYoU7H_bv92DEV0RrYgrVPsYg-b4gk0ocoHXhnfbTISCCvQH6DMgqEWGulg3AlPUTTk=s0)
 
 Table of Contents
 ====================================================================================================================================================================================================
@@ -103,9 +104,12 @@ Mugglemore <a name="mugglemore"></a>
 
 For this project we were inspired by [MeetUp](https://www.meetup.com/) and wanted to create a similar site, which allowed users to create and join events. To make it more fun, we dedicated it to all things Harry Potter and called it Mugglemore, taking inspiration from [Wizarding World](https://www.wizardingworld.com/) (previously Pottermore).
 
-You can see the deployed site [here](https://mugglemore.netlify.app/) or watch the clip for an overview of functionality below.
+You can see the deployed site [here](https://mugglemore.netlify.app/) or click the link below to watch an overview of site functionality.
 
-(I will make video showing full functionality of the site)
+
+[<img width="891" alt="Screenshot 2021-10-09 at 17 52 22" src="https://user-images.githubusercontent.com/78015278/136667402-281b90cc-800a-4db2-9e52-30f78460c6c9.png">](https://www.youtube.com/watch?v=NKpSO7AaPp4)
+
+
 
 Getting Started <a name="gettingstarted"></a>
 ===============
